@@ -1,1 +1,3 @@
 Hi, this is my file.
+I like this one. 
+This is cool.
